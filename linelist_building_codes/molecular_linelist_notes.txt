@@ -1,0 +1,47 @@
+notes
+
+OH
+Brooke 2016 - http://dx.doi.org/10.1016/j.jqsrt.2015.07.021
+Yousefi 2018 - https://doi.org/10.1016/j.jqsrt.2018.06.016
+Bernath 2020 - https://doi.org/10.1016/j.jqsrt.2019.106687
+
+trans id id ajj wavenum
+states id energy gtot J pairty vibrational_quantum_num unsure2 eState
+
+CN:
+Brooke 2014 - http://dx.doi.org/10.1088/0067-0049/210/2/23
+Syme 2021 - https://doi.org/10.1093/mnras/stab1551
+trans id id ajj wavenum
+states id energy gtot J energy_err state_lifetime landeg columns_of_state_info
+
+NH:
+Brooke 2014 - http://dx.doi.org/10.1063/1.4891468
+Fernando 2018 - https://doi.org/10.1016/j.jqsrt.2018.05.021
+Brooke 2018 - https://doi.org/10.1063/1.4923422
+
+trans id id ajj wavenum
+states id energy gtot J Nquantumnum Fquantumnum parity vibrational_quantum_num eState
+
+C2
+Yurchenko 2018 - https://doi.org/10.1093/mnras/sty2050
+McKemmish 2020 - https://doi.org/10.1093/mnras/staa1954
+trans id id ajj wavenum
+
+
+SiH
+Yurchenko 2018 - https://doi.org/10.1093/mnras/stx2738
+
+trans id id ajj wavenum
+
+FeH
+Dulick 2003 - http://dx.doi.org/10.1086/376791
+trans id id ajj wavenum
+
+
+CaH
+Li 2012 - http://dx.doi.org/10.1016/j.jqsrt.2011.09.010
+Shayesteh 2004 - http://dx.doi.org/10.1016/j.molstruc.2003.11.001
+Alavi 2017 - https://doi.org/10.1093/mnras/stx2681
+
+trans id id ajj wavenum
+
